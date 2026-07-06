@@ -3,7 +3,7 @@
 Demonstrate how to use the CLC (Configurable Logic Cell) peripheral with PIC16, configured via MCC Melody.
 
 ## 📹 Video Tutorial
-<!-- Add your video link here -->
+https://youtu.be/fHH59YInAt8
 
 ## 🛠️ Tools & Hardware
 - MPLAB X IDE
